@@ -1,4 +1,4 @@
-pragma solidity ^9.8.9;
+pragma solidity ^0.8.9;
 
 contract Basic{
     uint256 public a;
